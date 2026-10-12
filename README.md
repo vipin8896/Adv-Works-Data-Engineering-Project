@@ -163,8 +163,8 @@ At the end of the project, your resource group holds all the project resources:
 ### Step 2: Create the Storage Account (Data Lake)
 
 1. Search **Storage account**, click **Create**.
-2. Resource group: `aw-project`
-3. Storage account name: must be **globally unique**, for example `awstoragedatalake<yourname>`
+2. Resource group: `Vipin_project`
+3. Storage account name: must be **globally unique**, for example `awstoragedatalakeprojectstorage8896`
 4. Performance: **Standard**
 5. Redundancy: **LRS** (Locally redundant storage)
 6. In the **Advanced** tab, tick **Enable hierarchical namespace**. This makes it a Data Lake.
