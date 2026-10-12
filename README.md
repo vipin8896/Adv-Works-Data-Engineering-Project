@@ -175,8 +175,8 @@ At the end of the project, your resource group holds all the project resources:
 ### Step 3: Create Azure Data Factory
 
 1. Search **Data Factory**, click **Create**.
-2. Resource group: `aw-project`
-3. Name: unique, for example `adf-aw-project-<yourname>`
+2. Resource group: `Vipin_project`
+3. Name: unique, for example `projectstorage8896`
 4. **Review + create**, then **Create**.
 
 Open it and click **Launch Studio**. The Data Factory Studio has these tabs:
