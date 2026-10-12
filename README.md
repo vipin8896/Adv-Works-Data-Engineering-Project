@@ -152,7 +152,7 @@ We use the popular **AdventureWorks** dataset. It has many tables, which is grea
 A Resource Group is a folder that keeps all your Azure resources together.
 
 1. In the Azure Portal search bar, type **Resource groups** and click **Create**.
-2. Name: `aw-project`
+2. Name: `Vipin_project`
 3. Region: choose a nearby region (example used: **East US**).
 4. Skip Tags, click **Review + create**, then **Create**.
 
